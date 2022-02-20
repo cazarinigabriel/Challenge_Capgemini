@@ -43,7 +43,7 @@ Débora digitou uma string aleatória no campo de senha, porém ela não tem cer
 Duas palavras podem ser consideradas anagramas de si mesmas se as letras de uma palavra podem ser realocadas para formar a outra palavra. Dada uma string qualquer, desenvolva um algoritmo que encontre o número de pares de substrings que são anagramas.
 
 ### Exemplo 1)
-####Entrada:
+#### Entrada:
 
 `ovo`
 
@@ -52,7 +52,7 @@ Duas palavras podem ser consideradas anagramas de si mesmas se as letras de uma 
 `2`
 
 ### Exemplo 2)
-####Entrada:
+#### Entrada:
 
 `ifailuhkqq`
 
